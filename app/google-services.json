@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "613748550457",
+    "firebase_url": "https://realtdb-d2f7f-default-rtdb.firebaseio.com",
+    "project_id": "realtdb-d2f7f",
+    "storage_bucket": "realtdb-d2f7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613748550457:android:56d0d12ed36be22bf496e8",
+        "android_client_info": {
+          "package_name": "com.example.appfirebaseprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613748550457-s2j80vg3f851c9vlpu9b6d7q38esvibq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSutVKH7QCByJ4lAmuJwhrJVJApAqw3-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613748550457-s2j80vg3f851c9vlpu9b6d7q38esvibq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
